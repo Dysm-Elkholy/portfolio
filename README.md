@@ -1,16 +1,11 @@
-# EXPERIENCE
-Technical Support Intern
-Tradeline – 1.5 months
-Provided technical support to customers, resolving hardware and software issues efficiently.
-Diagnosed and repaired IT equipment, ensuring minimal downtime for clients.
-Assisted in maintaining and optimizing IT infrastructure within the organization.
-Enhanced customer satisfaction by delivering effective solutions and clear communication.
-# projects
-Currently working on (Implementing a Secure Multi-Branch Office Network)
-Creating a network design that includes secure site to site VPNs,network segementation for different departments
-and robust measures.
+# About me
+I am a dedicated and driven student at Cairo University, pursuing a degree in Computer Science and Artificial Intelligence with a specialization in Networks and Cybersecurity. Throughout my academic journey, I have developed a strong foundation in programming, networking, and cybersecurity principles. My coursework in algorithms, operating systems, and computer architecture, as well as my involvement in the CCNA and CyberOps courses, have equipped me with both the technical knowledge and hands-on experience necessary to tackle real-world challenges in the IT and cybersecurity fields.
+I have a passion for learning and problem-solving, demonstrated through my work on a variety of projects, including developing a C++ class for handling large integer arithmetic operations and studying vulnerabilities for security reports. My internship at Tradeline in technical support further honed my practical skills, where I successfully assisted clients with technical issues while improving my ability to troubleshoot and manage complex systems.
+In addition to my technical expertise, I bring a disciplined mindset and attention to detail, shaped by my 14 years of experience as a competitive swimmer. Being a member of Al Ahly Club’s swimming team has taught me the importance of teamwork, perseverance, and goal-setting, qualities that I carry into my academic and professional endeavors.
+With a strong commitment to personal and professional growth, I am constantly seeking opportunities to expand my knowledge and apply my skills in the ever-evolving fields of computer science, networking, and cybersecurity.
+
 # skills
 Networking fundamentals
-Problem-solving and troubleshooting
-Team collaboration and communication
+Problem-solving and troubleshooting,
+Team collaboration and communication,
 Time management and discipline

@@ -4,6 +4,11 @@ I have a passion for learning and problem-solving, demonstrated through my work 
 In addition to my technical expertise, I bring a disciplined mindset and attention to detail, shaped by my 14 years of experience as a competitive swimmer. Being a member of Al Ahly Club’s swimming team has taught me the importance of teamwork, perseverance, and goal-setting, qualities that I carry into my academic and professional endeavors.
 With a strong commitment to personal and professional growth, I am constantly seeking opportunities to expand my knowledge and apply my skills in the ever-evolving fields of computer science, networking, and cybersecurity.
 
+# Certifications & Training
+CCNA Certification (in progress) – NTI
+CyberOps Course (in progress) – NTI
+Technical Support Intern at Tradeline – 1.5 months
+
 # skills
 Networking fundamentals
 Problem-solving and troubleshooting,

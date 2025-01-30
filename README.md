@@ -4,7 +4,7 @@ Networking fundamentals
 Problem-solving and troubleshooting
 Team collaboration and communication
 Time management and discipline
-EXPERIENCE
+EXPERIENCE:
 Technical Support Intern
 Tradeline – 1.5 months
 Provided technical support to customers, resolving hardware and software issues efficiently.

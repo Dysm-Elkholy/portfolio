@@ -1,9 +1,4 @@
 # portfolio
-SKILLS:
-Networking fundamentals
-Problem-solving and troubleshooting
-Team collaboration and communication
-Time management and discipline
 EXPERIENCE:
 Technical Support Intern
 Tradeline – 1.5 months
@@ -15,3 +10,8 @@ projects:
 Currently working on (Implementing a Secure Multi-Branch Office Network)
 Creating a network design that includes secure site to site VPNs,network segementation for different departments
 and robust measures.
+# skills
+Networking fundamentals
+Problem-solving and troubleshooting
+Team collaboration and communication
+Time management and discipline

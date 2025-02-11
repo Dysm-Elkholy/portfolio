@@ -3,14 +3,31 @@ I am a dedicated and driven student at Cairo University, pursuing a degree in Co
 I have a passion for learning and problem-solving, demonstrated through my work on a variety of projects, including developing a C++ class for handling large integer arithmetic operations and studying vulnerabilities for security reports. My internship at Tradeline in technical support further honed my practical skills, where I successfully assisted clients with technical issues while improving my ability to troubleshoot and manage complex systems.
 In addition to my technical expertise, I bring a disciplined mindset and attention to detail, shaped by my 14 years of experience as a competitive swimmer. Being a member of Al Ahly Club’s swimming team has taught me the importance of teamwork, perseverance, and goal-setting, qualities that I carry into my academic and professional endeavors.
 With a strong commitment to personal and professional growth, I am constantly seeking opportunities to expand my knowledge and apply my skills in the ever-evolving fields of computer science, networking, and cybersecurity.
-
-# Certifications & Training
-CCNA Certification (in progress) – NTI
-CyberOps Course (in progress) – NTI
+---
+# 📜 Certifications & Courses  
+🎓 **CCNA 1 (Introduction to Networks) - Cisco**  
+🎓 **CyberOps Associate - NTI**  
+🎓 **Computer Science - Cairo University** 
 Technical Support Intern at Tradeline – 1.5 months
+---
+## 🛠 Skills & Technologies  
+- **Networking:** Cisco CCNA, Packet Tracer, Network Security  
+- **Cybersecurity:** CyberOps, Linux Security, SIEM Basics  
+- **Programming:** C++, Python, Bash Scripting  
+- **Operating Systems:** Linux (Ubuntu, Kali), Windows Server  
 
-# skills
-Networking fundamentals
-Problem-solving and troubleshooting,
-Team collaboration and communication,
-Time management and discipline
+---
+## 📂 Projects  
+🔹 **[BigDecimalInt Library](https://github.com/yourusername/BigDecimalInt)** – Arbitrary precision integer operations in C++.  
+🔹 **[Network Security Lab](https://github.com/yourusername/Network-Security-Lab)** – Simulated security attacks & defenses in Packet Tracer.  
+🔹 **[Linux Hardening Scripts](https://github.com/yourusername/Linux-Hardening)** – Bash scripts to enhance Linux security.  
+
+---
+## 📬 Connect with Me  
+📧 Email: [your.email@example.com](mailto:your.email@example.com)  
+🔗 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
+🐙 GitHub: [github.com/yourusername](https://github.com/yourusername)  
+
+---
+
+

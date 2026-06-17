@@ -6,7 +6,7 @@ With a strong commitment to personal and professional growth, I am constantly se
 
 ---
 # 📜 Certifications & Courses  
-🎓 **CCNA 1 (Introduction to Networks) - Cisco**  
+🎓 **CCNA (Certified Cisco Network Adminstrator) - NTI**  
 🎓 **CyberOps Associate - NTI**  
 🎓 **Computer Science - Cairo University** 
 
